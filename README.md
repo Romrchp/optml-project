@@ -18,6 +18,6 @@ In order to run the notebook included you must have the following python package
 
 ### Contributors :
 
-- Christopher Cherfan,
+- Christopher Cherfan
 - Lenny Del Zio
 - Romain Rochepeau
