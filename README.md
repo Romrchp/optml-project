@@ -40,8 +40,8 @@ isotropic tv for segmentation under blur and poisson noise,” 2023. [https://ww
 #### Code reference :
 
 - `ForwardBackwardDual.ipynb`, found and obtainable at [https://github.com/gnthibault/Optimisation-Python]. This public repository contains several basic optimisation algorithms, ranging from Support Vector Machines to Image denoising. The notebooks it contains were made and modified by :
- -  Gabriel Peyré, CNRS, DMA, Ecole Normale Supérieure [https://scholar.google.fr/citations?user=KqA1dYcAAAAJ&hl=en]
- - Laurent Condat, Senior Research Scientist, King Abdullah University of Science and Technology (KAUST), Saudi Arabia. [https://scholar.google.com/citations?user=mfBA5f8AAAAJ&hl=fr]
+  -  Gabriel Peyré, CNRS, DMA, Ecole Normale Supérieure [https://scholar.google.fr/citations?user=KqA1dYcAAAAJ&hl=en]
+  - Laurent Condat, Senior Research Scientist, King Abdullah University of Science and Technology (KAUST), Saudi Arabia. [https://scholar.google.com/citations?user=mfBA5f8AAAAJ&hl=fr]
 
 
 
