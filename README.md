@@ -16,7 +16,7 @@ This repository includes :
 
   - [background-work.ipynb](background-notebooks/background-work.ipynb) : Additionnal experiences that do not appear in the report.
 
-### Prerequisites :
+## Prerequisites :
 
 The project was coded and ran under the 3.10.8 version, but should run properly on other versions as well.
 
@@ -28,12 +28,12 @@ The project was coded and ran under the 3.10.8 version, but should run properly 
 In order to correctly install the latter and the rest of the more 'basic' dependencies, please refer to the `requirements.txt` file in the root folder of the repository. It contains the necessary dependencies to run our `final_notebook.ipynb`. 
 
 
-### Run instructions
+## Run instructions
 
 To run `final_notebook.ipynb`, clone the repository or download the file and run it from your prefered method. This repository does not contain any external `.py` or `ipynb` files needed for this notebook to run.
 
 
-### Main references and inspiration for the project :
+## Main references and inspiration for the project :
 
 
 - A. Chambolle and T. Pock, “A first-order primal-dual algorithm for convex problems with applications to imaging,” Journal of Mathematical Imaging and Vision, vol. 40, pp. 120–145, 2011. [https://api.semanticscholar.org/CorpusID:261281173]
@@ -43,7 +43,7 @@ To run `final_notebook.ipynb`, clone the repository or download the file and run
 - K. Bui, Y. Lou, F. Park, and J. Xin, “Difference of anisotropic and
 isotropic tv for segmentation under blur and poisson noise,” 2023. [https://www.frontiersin.org/articles/10.3389/fcomp.2023.1131317/full]
 
-#### Code reference :
+### Code reference :
 
 - `ForwardBackwardDual.ipynb`, found and obtainable at [https://github.com/gnthibault/Optimisation-Python]. This public repository contains several basic optimisation algorithms, ranging from Support Vector Machines to Image denoising. The notebooks it contains were made and modified by :
   -  Gabriel Peyré, CNRS, DMA, Ecole Normale Supérieure [https://scholar.google.fr/citations?user=KqA1dYcAAAAJ&hl=en]
@@ -51,7 +51,7 @@ isotropic tv for segmentation under blur and poisson noise,” 2023. [https://ww
 
 
 
-### Contributors :
+## Contributors :
 
 - Christopher Cherfan, Quantum Science and Engineering Section,
 - Lenny Del Zio, Quantum Science and Engineering Section,
