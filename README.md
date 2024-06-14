@@ -18,9 +18,15 @@ This repository includes :
 
 ### Prerequisites :
 
-In order to run the notebook included you must have the following python packages installed :
+The project was coded and ran under the 3.10.8 version, but should run properly on other versions as well.
 
-- some package
+**The main packages to install for this project are** :
+- **pyproximal** : This Python library provides all the needed building blocks for solving non-smooth convex optimization problems using the so-called proximal algorithms.
+
+- **pooch** : Pooch is a Python library that can manage data by downloading files from a server (only when needed) and storing them locally in a data cache (a folder on your computer). It is needed in our project to load the 'Ascent' image.
+
+In order to correctly install the latter and the rest of the more 'basic' dependencies, please refer to the `requirements.txt` file in the root folder of the repository. It contains the necessary dependencies to run our `final_notebook.ipynb`. 
+
 
 ### Contributors :
 
