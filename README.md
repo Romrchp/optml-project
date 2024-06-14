@@ -27,9 +27,26 @@ The project was coded and ran under the 3.10.8 version, but should run properly 
 
 In order to correctly install the latter and the rest of the more 'basic' dependencies, please refer to the `requirements.txt` file in the root folder of the repository. It contains the necessary dependencies to run our `final_notebook.ipynb`. 
 
+### Main references and inspiration for the project :
+
+
+-A. Chambolle and T. Pock, “A first-order primal-dual algorithm for convex problems with applications to imaging,” Journal of Mathematical Imaging and Vision, vol. 40, pp. 120–145, 2011. [https://api.semanticscholar.org/CorpusID:261281173]
+
+- K. Bui, F. Park, Y. Lou, and J. Xin, “A weighted difference of anisotropic and isotropic total variation for relaxed mumford-shah color and multiphase image segmentation,” 2021.
+
+- K. Bui, Y. Lou, F. Park, and J. Xin, “Difference of anisotropic and
+isotropic tv for segmentation under blur and poisson noise,” 2023.
+
+#### Code reference :
+
+- `ForwardBackwardDual.ipynb`, found and obtainable at [https://github.com/gnthibault/Optimisation-Python]. This public repository contains several basic optimisation algorithms, ranging from Support Vector Machines to Image denoising. The notebooks it contains were made and modified by :
+ -  Gabriel Peyré, CNRS, DMA, Ecole Normale Supérieure [https://scholar.google.fr/citations?user=KqA1dYcAAAAJ&hl=en]
+ - Laurent Condat, Senior Research Scientist, King Abdullah University of Science and Technology (KAUST), Saudi Arabia. [https://scholar.google.com/citations?user=mfBA5f8AAAAJ&hl=fr]
+
+
 
 ### Contributors :
 
-- Christopher Cherfan
-- Lenny Del Zio
-- Romain Rochepeau
+- Christopher Cherfan, Quantum Science and Engineering Section,
+- Lenny Del Zio, Quantum Science and Engineering Section,
+- Romain Rochepeau, Section of Life Sciences Engineering.
