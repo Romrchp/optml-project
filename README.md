@@ -30,12 +30,12 @@ In order to correctly install the latter and the rest of the more 'basic' depend
 ### Main references and inspiration for the project :
 
 
--A. Chambolle and T. Pock, “A first-order primal-dual algorithm for convex problems with applications to imaging,” Journal of Mathematical Imaging and Vision, vol. 40, pp. 120–145, 2011. [https://api.semanticscholar.org/CorpusID:261281173]
+- A. Chambolle and T. Pock, “A first-order primal-dual algorithm for convex problems with applications to imaging,” Journal of Mathematical Imaging and Vision, vol. 40, pp. 120–145, 2011. [https://api.semanticscholar.org/CorpusID:261281173]
 
-- K. Bui, F. Park, Y. Lou, and J. Xin, “A weighted difference of anisotropic and isotropic total variation for relaxed mumford-shah color and multiphase image segmentation,” 2021.
+- A Weighted Difference of Anisotropic and Isotropic Total Variation Model for Image Processing Yifei Lou, Tieyong Zeng, Stanley Osher, and Jack Xin SIAM Journal on Imaging Sciences 2015 8:3, 1798-1823 [https://epubs.siam.org/doi/10.1137/14098435X]
 
 - K. Bui, Y. Lou, F. Park, and J. Xin, “Difference of anisotropic and
-isotropic tv for segmentation under blur and poisson noise,” 2023.
+isotropic tv for segmentation under blur and poisson noise,” 2023. [https://www.frontiersin.org/articles/10.3389/fcomp.2023.1131317/full]
 
 #### Code reference :
 
