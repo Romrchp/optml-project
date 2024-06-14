@@ -27,6 +27,12 @@ The project was coded and ran under the 3.10.8 version, but should run properly 
 
 In order to correctly install the latter and the rest of the more 'basic' dependencies, please refer to the `requirements.txt` file in the root folder of the repository. It contains the necessary dependencies to run our `final_notebook.ipynb`. 
 
+
+### Run instructions
+
+To run `final_notebook.ipynb`, clone the repository or download the file and run it from your prefered method. This repository does not contain any external `.py` or `ipynb` files needed for this notebook to run.
+
+
 ### Main references and inspiration for the project :
 
 
